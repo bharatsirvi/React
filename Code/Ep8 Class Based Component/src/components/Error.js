@@ -4,6 +4,7 @@ const Error = () => {
   return (
     <div
       style={{
+      
         display: "flex",
         justifyContent: "center",
         alignContent: "center",
