@@ -15,6 +15,13 @@ class UserClass extends React.Component {
      })
      console.log("componentDidMount Called")
   }
+
+  componentDidUpdate(){
+
+  }
+  componentWillUnmount(){
+    
+  }
   render() {
     const { name,login } =this.state.user
     
