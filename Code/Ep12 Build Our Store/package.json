@@ -1,0 +1,22 @@
+{
+  "name": "ep12-build-our-store",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1",
+    "@tailwindcss/postcss": "^4.0.15",
+    "parcel": "^2.14.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-redux": "^9.2.0",
+    "react-router": "^7.4.0",
+    "tailwindcss": "^4.0.15"
+  }
+}
