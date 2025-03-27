@@ -1,0 +1,65 @@
+{
+  "info": {
+    "id": "74739",
+    "name": "Pizza Hut",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/593d53d5-a5b0-4fcf-b264-1086dac210f1_74739.jpg",
+    "locality": "Jhalawar Road",
+    "areaName": "Talwandi",
+    "costForTwo": "₹350 for two",
+    "cuisines": ["Pizzas"],
+    "avgRating": 4,
+    "parentId": "721",
+    "avgRatingString": "4.0",
+    "totalRatingsString": "14K+",
+    "veg": true,
+    "sla": {
+      "deliveryTime": 37,
+      "lastMileTravel": 7,
+      "serviceability": "SERVICEABLE",
+      "slaString": "35-40 mins",
+      "lastMileTravelString": "7.0 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2025-03-28 04:00:00",
+      "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {},
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "ITEMS",
+      "subHeader": "AT ₹64"
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+      "aggregatedRating": {
+        "rating": "--"
+      }
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+  },
+  "analytics": {
+    "context": "seo-data-0ad6b668-cd03-48b3-93b2-d754d0d5b00f"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/city/kota/pizza-hut-jhalawar-road-talwandi-rest74739",
+    "type": "WEBLINK"
+  }
+}
